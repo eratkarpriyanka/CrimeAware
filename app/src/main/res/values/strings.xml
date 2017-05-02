@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrimeAware</string>
+    <string name="google_maps_api_key">AIzaSyDuxh1wdLh_eMbtHLERuAlwIVxi-KIF-Ck</string>
+    <string name="home_scr_message">Lets check crime status in Chicago</string>
+</resources>

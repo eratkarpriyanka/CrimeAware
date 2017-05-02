@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="home_scr_padding">15dp</dimen>
+    <dimen name="temp1">2dp</dimen>
+    <dimen name="temp2">2dp</dimen>
+</resources>
