@@ -23,7 +23,7 @@ Optimization to use Clustering markers for adding shaded markers
 Reducing the load time for maps
 UI enhancements
 
-Walthrough the app CrimeAware
+Walkthrough the app CrimeAware
 
 <img src='http://imgur.com/RouyYcH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
